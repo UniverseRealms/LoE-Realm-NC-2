@@ -39,4 +39,4 @@ Download the properly Adobe Flex SDK to compile game client, link below:
 Download the IntelliJ Idea Ultimate trial to compile client, link below:
 - https://download.jetbrains.com/idea/ideaIU-2018.3.2.exe
 
-### Last Loe Realm NC 2 build before it got private. (version 2.3)
+### Last Loe Realm NC 2 build before it got private. (version 2.3) If you want the '2.4 build', there is a different branch and you can merge that into the main branch/use the '2.4 branch'.
