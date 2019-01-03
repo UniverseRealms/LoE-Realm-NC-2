@@ -20,7 +20,7 @@ LoE Realm New Chicago 2 version source code project.
 (Did this in case the LoE Realm NC 1 thingy gets deleted)
 
 # Discord:
-- [![Join Us!](https://discordapp.com/api/guilds/345060662260531202/embed.png)](https://discord.gg/htpVTFq)
+- [Join Us!](https://discord.gg/htpVTFq)
 
 # AppEngine (read-only) Repository for remote data:
 - https://loesoft-games.github.io/
